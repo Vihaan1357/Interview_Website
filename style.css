@@ -325,6 +325,11 @@ body{
 
 }
 
+.tab{
+  width:100%;
+  position: relative;
+  z-index: 8;
+}
 
 .forbtn1{
   width: 352px;
