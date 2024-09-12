@@ -1116,6 +1116,12 @@ display: flex;
     align-items: center;
     gap: 80px;
   }
+
+  .tab{
+  width:100%;
+  position: relative;
+  z-index: 8;
+}
 }
 
 
